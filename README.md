@@ -215,7 +215,7 @@ model="gemini-2.5-flash"  # higher free quota
 
 ## 📺 Watch the Tutorial
 
-[![YouTube](https://img.shields.io/badge/▶_Full_Walkthrough_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-video-link)
+[![YouTube](https://img.shields.io/badge/▶_Full_Walkthrough_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Qx_HIHy5-IQ)
 
 ---
 
