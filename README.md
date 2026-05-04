@@ -13,7 +13,7 @@ Build AI agents from a single prompt. Works with Gemini CLI, Claude Code, Cursor
 
 ## 🎥 Watch the Full Walkthrough
 
-[![Watch on YouTube](https://img.shields.io/badge/▶_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-video-link)
+[![Watch on YouTube](https://img.shields.io/badge/▶_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Qx_HIHy5-IQ)
 
 ---
 
